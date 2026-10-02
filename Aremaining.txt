@@ -1,0 +1,17 @@
+slip3Q2.java
+slip4Q2.java
+slip7Q2.java
+slip14Q2.java
+slip22Q2.java
+
+import java.io.File;
+
+what is perfect number.
+
+interface question
+
+line,word.charcher
+
+exception
+
+  if(rollno<=13001||rollno>=13080)
