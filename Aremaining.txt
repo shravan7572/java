@@ -1,7 +1,7 @@
-slip3Q2.java
+slip3Q2.java done
 slip4Q2.java
-slip7Q2.java
-slip14Q2.java
+slip7Q2.java done
+slip14Q2.java done
 slip22Q2.java
 
 import java.io.File;
