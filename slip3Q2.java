@@ -3,7 +3,7 @@ import javafx.scene.Scene;
 import javafx.scene.chart.PieChart;
 import javafx.stage.Stage;
 
-public class slip3Q2 {
+public class slip3Q2 extends Application {
     public void start(Stage stage) {
         PieChart pi = new PieChart();
 
